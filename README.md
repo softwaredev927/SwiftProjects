@@ -1,5 +1,5 @@
 # SwiftProjects
-All swift/iOS projects I have done or participated
+SWIFT/iOS projects I have done or participated
 
 # Social App
 https://apps.apple.com/gb/app/brugge-beweegt/id1501371661
